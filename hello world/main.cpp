@@ -3,8 +3,8 @@
 using namespace std;
 
 int main()
-{   //print Hello World
-    cout << "Hello world!";
+{   //print a string
+    cout << "Hello to coding world!";
     //print new line
     cout<<endl;
 }
